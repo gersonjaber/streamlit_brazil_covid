@@ -6,9 +6,9 @@
 
 To run this sample locally just install streamlit:
 
-'$ pip install streamlit'
+`$ pip install streamlit`
 
 and run:
 
-'$ streamlit run streamlit_app.py'
+`$ streamlit run streamlit_app.py`
 
